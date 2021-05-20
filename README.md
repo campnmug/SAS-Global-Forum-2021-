@@ -1,6 +1,8 @@
 # SAS-Global-Forum-2021-
 
-This is the SAS code to accompany my paper for SAS Global Forum 2021
+This includes the SAS code to accompany my paper for SAS Global Forum 2021
+It also contains the paper and the presentation slides
+
 Paper 1184-2021
 Haste Makes Waste: Don't Ruin Your Reputation with Hasty Regression
 Steven C. Myers, Ph.D., The University of Akron
